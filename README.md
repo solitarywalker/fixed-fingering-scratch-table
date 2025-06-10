@@ -1,2 +1,2 @@
-# BMS-Table-Template
-BMS難易度表のテンプレートです。
+# one-handed-scratch-table
+準備中です。
